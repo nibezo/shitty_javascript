@@ -1,0 +1,3302 @@
+{
+	"name": "Всратый JavaScript",
+	"type": "public_channel",
+	"id": 1676462773,
+	"messages": [
+		{
+			"id": 1,
+			"type": "service",
+			"date": "2022-10-12T11:57:21",
+			"date_unixtime": "1665561441",
+			"actor": "Всратый JavaScript",
+			"actor_id": "channel1676462773",
+			"action": "create_channel",
+			"title": "Всратый JavaScript",
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 3,
+			"type": "message",
+			"date": "2022-10-12T12:14:32",
+			"date_unixtime": "1665562472",
+			"edited": "2022-10-14T10:24:24",
+			"edited_unixtime": "1665728664",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "10 + 036 ?",
+				"closed": false,
+				"total_voters": 581,
+				"answers": [
+					{
+						"text": "10",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "20",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Error",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "40",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 9,
+			"type": "message",
+			"date": "2022-10-12T13:01:16",
+			"date_unixtime": "1665565276",
+			"edited": "2022-10-14T10:13:22",
+			"edited_unixtime": "1665728002",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "if (Boolean('false')) { ... } else { ... }",
+				"closed": false,
+				"total_voters": 413,
+				"answers": [
+					{
+						"text": "Первый блок {}",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Ошибка",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Второй блок {}",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Оба блока",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 10,
+			"type": "message",
+			"date": "2022-10-12T13:04:46",
+			"date_unixtime": "1665565486",
+			"edited": "2022-10-13T23:23:59",
+			"edited_unixtime": "1665689039",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'1' + 1 - '1'",
+				"closed": false,
+				"total_voters": 455,
+				"answers": [
+					{
+						"text": "111",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "10",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "11",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Error",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 13,
+			"type": "message",
+			"date": "2022-10-13T14:06:03",
+			"date_unixtime": "1665655563",
+			"edited": "2022-10-15T12:21:02",
+			"edited_unixtime": "1665822062",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "alert(a); if (false) { var a = 1 }",
+				"closed": false,
+				"total_voters": 752,
+				"answers": [
+					{
+						"text": "a is not defined",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "undefined",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "null",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 14,
+			"type": "message",
+			"date": "2022-10-14T10:03:58",
+			"date_unixtime": "1665727438",
+			"edited": "2022-10-14T12:41:04",
+			"edited_unixtime": "1665736864",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "(function() { x = y = 0; })(); console.log(x, y)?",
+				"closed": false,
+				"total_voters": 675,
+				"answers": [
+					{
+						"text": "ReferenceError: x is not defined",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "undefined 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 undefined",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 16,
+			"type": "message",
+			"date": "2022-10-15T11:28:41",
+			"date_unixtime": "1665818921",
+			"edited": "2022-10-15T11:35:21",
+			"edited_unixtime": "1665819321",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(false == '0', true == 'true')?",
+				"closed": false,
+				"total_voters": 636,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 18,
+			"type": "message",
+			"date": "2022-10-16T10:43:49",
+			"date_unixtime": "1665902629",
+			"edited": "2022-10-16T10:52:11",
+			"edited_unixtime": "1665903131",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "[3,2,5,11].sort()[0]",
+				"closed": false,
+				"total_voters": 518,
+				"answers": [
+					{
+						"text": "3",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "11",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "5",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "2",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 19,
+			"type": "message",
+			"date": "2022-10-17T10:42:33",
+			"date_unixtime": "1665988953",
+			"edited": "2022-10-17T10:53:29",
+			"edited_unixtime": "1665989609",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(3 > 2 > 1, 3 < 2 < 1)",
+				"closed": false,
+				"total_voters": 454,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 20,
+			"type": "message",
+			"date": "2022-10-18T10:45:11",
+			"date_unixtime": "1666075511",
+			"edited": "2022-10-18T10:46:22",
+			"edited_unixtime": "1666075582",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "a = null; if ('0') { a = 10 } else { a = 20 }",
+				"closed": false,
+				"total_voters": 345,
+				"answers": [
+					{
+						"text": "null",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "10",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "20",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Error converted number",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 21,
+			"type": "message",
+			"date": "2022-10-19T10:51:03",
+			"date_unixtime": "1666162263",
+			"edited": "2022-10-19T10:51:44",
+			"edited_unixtime": "1666162304",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "(true + true) * (true + true) - true",
+				"closed": false,
+				"total_voters": 433,
+				"answers": [
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "4",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "3",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "2",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 22,
+			"type": "message",
+			"date": "2022-10-20T12:17:43",
+			"date_unixtime": "1666253863",
+			"edited": "2022-10-20T12:25:33",
+			"edited_unixtime": "1666254333",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(NaN == NaN, NaN == !NaN)",
+				"closed": false,
+				"total_voters": 456,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 23,
+			"type": "message",
+			"date": "2022-10-21T13:31:17",
+			"date_unixtime": "1666344677",
+			"edited": "2022-10-21T13:37:47",
+			"edited_unixtime": "1666345067",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "typeof typeof 0x10",
+				"closed": false,
+				"total_voters": 407,
+				"answers": [
+					{
+						"text": "'number'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'hex'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'object'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'string'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 25,
+			"type": "message",
+			"date": "2022-10-22T12:43:23",
+			"date_unixtime": "1666428203",
+			"edited": "2022-10-22T12:44:44",
+			"edited_unixtime": "1666428284",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "[1, 2, 3] + [4, 5, 6]",
+				"closed": false,
+				"total_voters": 413,
+				"answers": [
+					{
+						"text": "Error",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "[1,2,3,4,5,6]",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "[1,2,34,5,6]",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'1,2,34,5,6'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 26,
+			"type": "message",
+			"date": "2022-10-23T13:38:49",
+			"date_unixtime": "1666517929",
+			"edited": "2022-10-23T13:39:15",
+			"edited_unixtime": "1666517955",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "!5 + !5",
+				"closed": false,
+				"total_voters": 562,
+				"answers": [
+					{
+						"text": "0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "10",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "25",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 27,
+			"type": "message",
+			"date": "2022-10-24T12:49:32",
+			"date_unixtime": "1666601372",
+			"edited": "2022-10-24T13:04:07",
+			"edited_unixtime": "1666602247",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(1 + / + + + / + 1)",
+				"closed": false,
+				"total_voters": 330,
+				"answers": [
+					{
+						"text": "1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'11'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'1/ + + + /1'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 28,
+			"type": "message",
+			"date": "2022-10-25T13:43:31",
+			"date_unixtime": "1666691011",
+			"edited": "2022-10-25T13:44:24",
+			"edited_unixtime": "1666691064",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log([] == [], [] == ![])",
+				"closed": false,
+				"total_voters": 454,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 29,
+			"type": "message",
+			"date": "2022-10-26T12:16:30",
+			"date_unixtime": "1666772190",
+			"edited": "2022-10-26T12:17:06",
+			"edited_unixtime": "1666772226",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'' - - ''",
+				"closed": false,
+				"total_voters": 350,
+				"answers": [
+					{
+						"text": "0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "-0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'-0'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "-1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 32,
+			"type": "message",
+			"date": "2022-10-27T13:07:25",
+			"date_unixtime": "1666861645",
+			"edited": "2022-10-27T13:29:45",
+			"edited_unixtime": "1666862985",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "(function(){alert(window); var window = window})();",
+				"closed": false,
+				"total_voters": 375,
+				"answers": [
+					{
+						"text": "[object Window]",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Loop unil error",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "undefined",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "{}",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 33,
+			"type": "message",
+			"date": "2022-10-28T14:35:12",
+			"date_unixtime": "1666953312",
+			"edited": "2022-10-28T14:35:49",
+			"edited_unixtime": "1666953349",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log('3' -+-+-+ '1')",
+				"closed": false,
+				"total_voters": 450,
+				"answers": [
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "2",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "4",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'31'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 34,
+			"type": "message",
+			"date": "2022-10-29T14:55:33",
+			"date_unixtime": "1667040933",
+			"edited": "2022-10-29T15:28:29",
+			"edited_unixtime": "1667042909",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(typeof [], typeof null)",
+				"closed": false,
+				"total_voters": 407,
+				"answers": [
+					{
+						"text": "'array' 'object'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'array' 'null'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'object' 'object'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'object' 'null'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 35,
+			"type": "message",
+			"date": "2022-10-30T15:23:32",
+			"date_unixtime": "1667129012",
+			"edited": "2022-10-30T15:24:17",
+			"edited_unixtime": "1667129057",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "foo = [0]; console.log(foo == !foo, foo == foo)",
+				"closed": false,
+				"total_voters": 393,
+				"answers": [
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 37,
+			"type": "message",
+			"date": "2022-10-31T11:25:07",
+			"date_unixtime": "1667201107",
+			"edited": "2022-10-31T11:25:49",
+			"edited_unixtime": "1667201149",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(9999999999999999)",
+				"closed": false,
+				"total_voters": 618,
+				"answers": [
+					{
+						"text": "9999999999999999",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'9999999999999999'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "10000000000000000",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 38,
+			"type": "message",
+			"date": "2022-11-01T12:20:34",
+			"date_unixtime": "1667290834",
+			"edited": "2022-11-01T12:21:46",
+			"edited_unixtime": "1667290906",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "function f(a = true){ alert(a) }; f(null)",
+				"closed": false,
+				"total_voters": 392,
+				"answers": [
+					{
+						"text": "true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "null",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "undefined",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 39,
+			"type": "message",
+			"date": "2022-11-02T14:32:38",
+			"date_unixtime": "1667385158",
+			"edited": "2022-11-02T14:51:57",
+			"edited_unixtime": "1667386317",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(typeof null, null instanceof Object)",
+				"closed": false,
+				"total_voters": 385,
+				"answers": [
+					{
+						"text": "object false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "null false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "object true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "null true",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 40,
+			"type": "message",
+			"date": "2022-11-03T14:34:40",
+			"date_unixtime": "1667471680",
+			"edited": "2022-11-03T14:34:51",
+			"edited_unixtime": "1667471691",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log('ba' +- 'nan')?",
+				"closed": false,
+				"total_voters": 501,
+				"answers": [
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'banan'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'baNaN'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'NaNNaN'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 41,
+			"type": "message",
+			"date": "2022-11-04T13:58:55",
+			"date_unixtime": "1667555935",
+			"edited": "2022-11-04T13:59:04",
+			"edited_unixtime": "1667555944",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "localStorage[0]=false; if(localStorage[0]) { ... } else { ... }",
+				"closed": false,
+				"total_voters": 342,
+				"answers": [
+					{
+						"text": "Первый блок { ... }",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Второй блок { ... }",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Error localStorage не массив",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Сначала второй { ... } потому первый { ... }",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 42,
+			"type": "message",
+			"date": "2022-11-05T14:27:30",
+			"date_unixtime": "1667644050",
+			"edited": "2022-11-05T14:38:36",
+			"edited_unixtime": "1667644716",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'99.99' + 10 - 10",
+				"closed": false,
+				"total_voters": 470,
+				"answers": [
+					{
+						"text": "'99.991010'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "99.89",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "89.991",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "99.99",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 43,
+			"type": "message",
+			"date": "2022-11-06T13:45:11",
+			"date_unixtime": "1667727911",
+			"edited": "2022-11-06T14:10:50",
+			"edited_unixtime": "1667729450",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log([null] == '', [null] == 0)",
+				"closed": false,
+				"total_voters": 405,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 96,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 77,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 65,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 167,
+						"chosen": true
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 44,
+			"type": "message",
+			"date": "2022-11-07T13:36:55",
+			"date_unixtime": "1667813815",
+			"edited": "2022-11-07T13:37:19",
+			"edited_unixtime": "1667813839",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "Number.MIN_VALUE > 0, Number.MIN_VALUE < 0",
+				"closed": false,
+				"total_voters": 338,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 45,
+			"type": "message",
+			"date": "2022-11-08T13:51:03",
+			"date_unixtime": "1667901063",
+			"edited": "2022-11-08T13:51:10",
+			"edited_unixtime": "1667901070",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "Math.pow(NaN, 0)",
+				"closed": false,
+				"total_voters": 631,
+				"answers": [
+					{
+						"text": "0",
+						"voters": 69,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 153,
+						"chosen": true
+					},
+					{
+						"text": "NaN",
+						"voters": 312,
+						"chosen": false
+					},
+					{
+						"text": "Error",
+						"voters": 97,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 46,
+			"type": "message",
+			"date": "2022-11-09T13:40:38",
+			"date_unixtime": "1667986838",
+			"edited": "2022-11-09T13:51:53",
+			"edited_unixtime": "1667987513",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'\\/'.length",
+				"closed": false,
+				"total_voters": 563,
+				"answers": [
+					{
+						"text": "0",
+						"voters": 73,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 235,
+						"chosen": false
+					},
+					{
+						"text": "2",
+						"voters": 223,
+						"chosen": false
+					},
+					{
+						"text": "1020",
+						"voters": 32,
+						"chosen": true
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 47,
+			"type": "message",
+			"date": "2022-11-10T11:56:54",
+			"date_unixtime": "1668067014",
+			"edited": "2022-11-10T11:58:11",
+			"edited_unixtime": "1668067091",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "Math.max() > Math.min(), Math.max() < Math.min()",
+				"closed": false,
+				"total_voters": 519,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 82,
+						"chosen": true
+					},
+					{
+						"text": "true false",
+						"voters": 197,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 74,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 166,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 48,
+			"type": "message",
+			"date": "2022-11-11T13:54:27",
+			"date_unixtime": "1668160467",
+			"edited": "2022-11-11T13:59:54",
+			"edited_unixtime": "1668160794",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "typeof Object, typeof Object()",
+				"closed": false,
+				"total_voters": 379,
+				"answers": [
+					{
+						"text": "'object' 'object'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'function', 'object'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'class' 'object'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'object', 'undefined'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 49,
+			"type": "message",
+			"date": "2022-11-12T14:45:11",
+			"date_unixtime": "1668249911",
+			"edited": "2022-11-12T14:46:04",
+			"edited_unixtime": "1668249964",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "parseFloat('Infinity'), parseInt('Infinity')",
+				"closed": false,
+				"total_voters": 401,
+				"answers": [
+					{
+						"text": "NaN NaN",
+						"voters": 138,
+						"chosen": false
+					},
+					{
+						"text": "Infinity NaN",
+						"voters": 91,
+						"chosen": false
+					},
+					{
+						"text": "Infinity Infinity",
+						"voters": 112,
+						"chosen": false
+					},
+					{
+						"text": "NaN Infinity",
+						"voters": 60,
+						"chosen": true
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 50,
+			"type": "message",
+			"date": "2022-11-13T13:15:10",
+			"date_unixtime": "1668330910",
+			"edited": "2022-11-13T13:38:08",
+			"edited_unixtime": "1668332288",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "\"10\" > \"5\", \"60\" < \"5\"",
+				"closed": false,
+				"total_voters": 472,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 51,
+			"type": "message",
+			"date": "2022-11-14T12:05:54",
+			"date_unixtime": "1668413154",
+			"edited": "2022-11-14T12:06:44",
+			"edited_unixtime": "1668413204",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "['1', '7', '11'].map(parseInt);",
+				"closed": false,
+				"total_voters": 426,
+				"answers": [
+					{
+						"text": "[1, 7, 11]",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "[1, NaN, 3]",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "[NaN, 1, 2]",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "[0, 1, NaN]",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 52,
+			"type": "message",
+			"date": "2022-11-15T14:23:12",
+			"date_unixtime": "1668507792",
+			"edited": "2022-11-15T14:23:28",
+			"edited_unixtime": "1668507808",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "a = true; a++; a ?",
+				"closed": false,
+				"total_voters": 472,
+				"answers": [
+					{
+						"text": "Error: Invalid left-hand side expression",
+						"voters": 116,
+						"chosen": true
+					},
+					{
+						"text": "0",
+						"voters": 20,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 71,
+						"chosen": false
+					},
+					{
+						"text": "2",
+						"voters": 265,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 53,
+			"type": "message",
+			"date": "2022-11-16T12:30:05",
+			"date_unixtime": "1668587405",
+			"edited": "2022-11-16T13:16:02",
+			"edited_unixtime": "1668590162",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'hello 😂'.split('').reverse().join('')",
+				"closed": false,
+				"total_voters": 398,
+				"answers": [
+					{
+						"text": "'😂 hello'",
+						"voters": 38,
+						"chosen": false
+					},
+					{
+						"text": "'😂 olleh'",
+						"voters": 136,
+						"chosen": false
+					},
+					{
+						"text": "'😩 olleh'",
+						"voters": 45,
+						"chosen": false
+					},
+					{
+						"text": "'\\uDE02\\uD83D olleh'",
+						"voters": 179,
+						"chosen": true
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 54,
+			"type": "message",
+			"date": "2022-11-17T13:05:32",
+			"date_unixtime": "1668675932",
+			"edited": "2022-11-17T13:05:51",
+			"edited_unixtime": "1668675951",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "typeof document.all // document.all - []HTMLAllCollection",
+				"closed": false,
+				"total_voters": 289,
+				"answers": [
+					{
+						"text": "'object'",
+						"voters": 198,
+						"chosen": true
+					},
+					{
+						"text": "'html'",
+						"voters": 27,
+						"chosen": false
+					},
+					{
+						"text": "'undefined'",
+						"voters": 51,
+						"chosen": false
+					},
+					{
+						"text": "'null'",
+						"voters": 13,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 55,
+			"type": "message",
+			"date": "2022-11-18T12:28:58",
+			"date_unixtime": "1668760138",
+			"edited": "2022-11-18T12:30:24",
+			"edited_unixtime": "1668760224",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "a = new Number(); typeof a; a++; typeof a; console.log(a);",
+				"closed": false,
+				"total_voters": 289,
+				"answers": [
+					{
+						"text": "'object' 'number' NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'number' 'number' 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'object' 'number' 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'object' 'number' 0",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 56,
+			"type": "message",
+			"date": "2022-11-19T10:46:26",
+			"date_unixtime": "1668840386",
+			"edited": "2022-11-19T10:52:28",
+			"edited_unixtime": "1668840748",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'a'; setTimeout(() => 'b', 0); 'c';",
+				"closed": false,
+				"total_voters": 294,
+				"answers": [
+					{
+						"text": "abc",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "acb",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "cba",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "bca",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 57,
+			"type": "message",
+			"date": "2022-11-20T11:50:32",
+			"date_unixtime": "1668930632",
+			"edited": "2022-11-20T12:33:31",
+			"edited_unixtime": "1668933211",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "new Array() == false, new Array(1) == false",
+				"closed": false,
+				"total_voters": 326,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 58,
+			"type": "message",
+			"date": "2022-11-21T13:26:18",
+			"date_unixtime": "1669022778",
+			"edited": "2022-11-21T13:26:59",
+			"edited_unixtime": "1669022819",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "null == 0, null >= 0",
+				"closed": false,
+				"total_voters": 387,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 59,
+			"type": "message",
+			"date": "2022-11-22T12:25:17",
+			"date_unixtime": "1669105517",
+			"edited": "2022-11-22T12:25:35",
+			"edited_unixtime": "1669105535",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "+[]+[].length (+[]+[]).length",
+				"closed": false,
+				"total_voters": 297,
+				"answers": [
+					{
+						"text": "0 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 60,
+			"type": "message",
+			"date": "2022-11-23T13:06:00",
+			"date_unixtime": "1669194360",
+			"edited": "2022-11-23T13:13:04",
+			"edited_unixtime": "1669194784",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "f(x){arguments[0] = \"hi\";return x;} f(); f(1);",
+				"closed": false,
+				"total_voters": 189,
+				"answers": [
+					{
+						"text": "'hi' 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'hi' 'hi'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "undefined 'hi'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "undefined 1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 61,
+			"type": "message",
+			"date": "2022-11-24T14:12:58",
+			"date_unixtime": "1669284778",
+			"edited": "2022-11-24T14:13:13",
+			"edited_unixtime": "1669284793",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "Number({}), Number([])",
+				"closed": false,
+				"total_voters": 230,
+				"answers": [
+					{
+						"text": "1 0",
+						"voters": 29,
+						"chosen": false
+					},
+					{
+						"text": "1 1",
+						"voters": 43,
+						"chosen": false
+					},
+					{
+						"text": "NaN 0",
+						"voters": 97,
+						"chosen": false
+					},
+					{
+						"text": "NaN NaN",
+						"voters": 61,
+						"chosen": true
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 62,
+			"type": "message",
+			"date": "2022-11-24T14:25:54",
+			"date_unixtime": "1669285554",
+			"edited": "2022-11-24T14:26:16",
+			"edited_unixtime": "1669285576",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"text": [
+				{
+					"type": "bold",
+					"text": "Shitty.js"
+				},
+				"\n\nРебят, сделал либу, которая добавляет всратостей великому JS'у.\n\nСсылка на ",
+				{
+					"type": "text_link",
+					"text": "демо",
+					"href": "https://space2pacman-misc.github.io/shitty.js/"
+				},
+				"\n\nОписание:\n",
+				{
+					"type": "bold",
+					"text": "Больше или равно, меньше или равно."
+				},
+				"\nВам тоже надоело получать ",
+				{
+					"type": "bold",
+					"text": "false"
+				},
+				", каждый раз когда вы пытаетесь сравнить значения? 😡\nХватит это терпеть! 😤\nТеперь есть оператор \"Больше, меньше или равно\".\nИспользуйте его и забудьте о проблемах!\n",
+				{
+					"type": "code",
+					"text": "1 <>= 2 // true"
+				},
+				"\n\n",
+				{
+					"type": "bold",
+					"text": "Надоело при складывании чисел как строки получать строку?"
+				},
+				"\n",
+				{
+					"type": "code",
+					"text": "\"10\" + \"20\" = \"1020\""
+				},
+				"?\nТеперь это работает и с обычными числами! 🔥\n",
+				{
+					"type": "code",
+					"text": "10 + 20 = 1020"
+				},
+				"\n\n",
+				{
+					"type": "bold",
+					"text": "Почему складывать строки можно а вычитать нельзя?"
+				},
+				"\nПочему JavaScript меня ограничивает?! 😈\n",
+				{
+					"type": "code",
+					"text": "'abc' - 'b' = 'ac'"
+				},
+				""
+			],
+			"text_entities": [
+				{
+					"type": "bold",
+					"text": "Shitty.js"
+				},
+				{
+					"type": "plain",
+					"text": "\n\nРебят, сделал либу, которая добавляет всратостей великому JS'у.\n\nСсылка на "
+				},
+				{
+					"type": "text_link",
+					"text": "демо",
+					"href": "https://space2pacman-misc.github.io/shitty.js/"
+				},
+				{
+					"type": "plain",
+					"text": "\n\nОписание:\n"
+				},
+				{
+					"type": "bold",
+					"text": "Больше или равно, меньше или равно."
+				},
+				{
+					"type": "plain",
+					"text": "\nВам тоже надоело получать "
+				},
+				{
+					"type": "bold",
+					"text": "false"
+				},
+				{
+					"type": "plain",
+					"text": ", каждый раз когда вы пытаетесь сравнить значения? 😡\nХватит это терпеть! 😤\nТеперь есть оператор \"Больше, меньше или равно\".\nИспользуйте его и забудьте о проблемах!\n"
+				},
+				{
+					"type": "code",
+					"text": "1 <>= 2 // true"
+				},
+				{
+					"type": "plain",
+					"text": "\n\n"
+				},
+				{
+					"type": "bold",
+					"text": "Надоело при складывании чисел как строки получать строку?"
+				},
+				{
+					"type": "plain",
+					"text": "\n"
+				},
+				{
+					"type": "code",
+					"text": "\"10\" + \"20\" = \"1020\""
+				},
+				{
+					"type": "plain",
+					"text": "?\nТеперь это работает и с обычными числами! 🔥\n"
+				},
+				{
+					"type": "code",
+					"text": "10 + 20 = 1020"
+				},
+				{
+					"type": "plain",
+					"text": "\n\n"
+				},
+				{
+					"type": "bold",
+					"text": "Почему складывать строки можно а вычитать нельзя?"
+				},
+				{
+					"type": "plain",
+					"text": "\nПочему JavaScript меня ограничивает?! 😈\n"
+				},
+				{
+					"type": "code",
+					"text": "'abc' - 'b' = 'ac'"
+				},
+				{
+					"type": "plain",
+					"text": ""
+				}
+			]
+		},
+		{
+			"id": 63,
+			"type": "message",
+			"date": "2022-11-25T13:06:48",
+			"date_unixtime": "1669367208",
+			"edited": "2022-11-25T13:06:59",
+			"edited_unixtime": "1669367219",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "[null].length, [null].toString().length",
+				"closed": false,
+				"total_voters": 236,
+				"answers": [
+					{
+						"text": "1 4",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 0",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 66,
+			"type": "message",
+			"date": "2022-11-26T15:07:34",
+			"date_unixtime": "1669460854",
+			"edited": "2022-11-26T15:07:45",
+			"edited_unixtime": "1669460865",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "if (function f() {}) {typeof f}",
+				"closed": false,
+				"total_voters": 220,
+				"answers": [
+					{
+						"text": "undefined",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "function",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "null",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "object",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 67,
+			"type": "message",
+			"date": "2022-11-27T14:58:50",
+			"date_unixtime": "1669546730",
+			"edited": "2022-11-27T14:59:54",
+			"edited_unixtime": "1669546794",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "JSON.stringify(\"production\");",
+				"closed": false,
+				"total_voters": 233,
+				"answers": [
+					{
+						"text": "Error parse",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "' \"production\" '",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'{\"production\"}'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'production'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 68,
+			"type": "message",
+			"date": "2022-11-28T14:08:15",
+			"date_unixtime": "1669630095",
+			"edited": "2022-11-28T14:10:22",
+			"edited_unixtime": "1669630222",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "a={}; b={1:1}; c={2:2}; a[b]=111; a[c]=222; a[b] ?",
+				"closed": false,
+				"total_voters": 182,
+				"answers": [
+					{
+						"text": "111",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "222",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "2",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 69,
+			"type": "message",
+			"date": "2022-11-29T13:52:38",
+			"date_unixtime": "1669715558",
+			"edited": "2022-11-29T13:53:37",
+			"edited_unixtime": "1669715617",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "(Number.MAX_VALUE - 1) < Number.MAX_VALUE, (Number.MAX_VALUE - 1) > Number.MAX_VALUE",
+				"closed": false,
+				"total_voters": 153,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 70,
+			"type": "message",
+			"date": "2022-11-30T13:52:50",
+			"date_unixtime": "1669801970",
+			"edited": "2022-11-30T13:52:56",
+			"edited_unixtime": "1669801976",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "typeof +\"\", typeof -\"foo\"",
+				"closed": false,
+				"total_voters": 214,
+				"answers": [
+					{
+						"text": "string NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "string number",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "number NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "number number",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 71,
+			"type": "message",
+			"date": "2022-12-01T10:14:40",
+			"date_unixtime": "1669875280",
+			"edited": "2022-12-01T10:14:46",
+			"edited_unixtime": "1669875286",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "console.log(123) === 123, console.log(123) === undefined",
+				"closed": false,
+				"total_voters": 249,
+				"answers": [
+					{
+						"text": "123 true, 123 true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "123 true, 123 false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "123 false, 123 true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "123 false, 123 false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 72,
+			"type": "message",
+			"date": "2022-12-02T13:01:20",
+			"date_unixtime": "1669971680",
+			"edited": "2022-12-02T13:55:14",
+			"edited_unixtime": "1669974914",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "[,,,].length",
+				"closed": false,
+				"total_voters": 250,
+				"answers": [
+					{
+						"text": "4",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "3",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 73,
+			"type": "message",
+			"date": "2022-12-03T14:35:32",
+			"date_unixtime": "1670063732",
+			"edited": "2022-12-03T14:37:47",
+			"edited_unixtime": "1670063867",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "[, a, b, c] = 'foo'; a == b; a == c",
+				"closed": false,
+				"total_voters": 232,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 74,
+			"type": "message",
+			"date": "2022-12-04T15:08:33",
+			"date_unixtime": "1670152113",
+			"edited": "2022-12-04T16:25:06",
+			"edited_unixtime": "1670156706",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "42.888.toFixed(2)",
+				"closed": false,
+				"total_voters": 243,
+				"answers": [
+					{
+						"text": "42.88",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "42.89",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'42.88'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'42.89'",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 76,
+			"type": "message",
+			"date": "2022-12-05T12:37:59",
+			"date_unixtime": "1670229479",
+			"edited": "2022-12-05T12:39:00",
+			"edited_unixtime": "1670229540",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "![0][1] == [1][0], [0][1] == [1][!0]",
+				"closed": false,
+				"total_voters": 165,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 77,
+			"type": "message",
+			"date": "2022-12-06T12:53:26",
+			"date_unixtime": "1670316806",
+			"edited": "2022-12-06T12:53:33",
+			"edited_unixtime": "1670316813",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "[] > [], [] >= []",
+				"closed": false,
+				"total_voters": 200,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 78,
+			"type": "message",
+			"date": "2022-12-07T13:36:39",
+			"date_unixtime": "1670405799",
+			"edited": "2022-12-07T13:37:14",
+			"edited_unixtime": "1670405834",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "a = 10; if (a = 5) { b = 0 } else { b = 1 }",
+				"closed": false,
+				"total_voters": 190,
+				"answers": [
+					{
+						"text": "a === 10, b === 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "a === 10, b === 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "a === 5, b === 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "a === 5, b === 1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 79,
+			"type": "message",
+			"date": "2022-12-08T12:12:05",
+			"date_unixtime": "1670487125",
+			"edited": "2022-12-08T12:13:47",
+			"edited_unixtime": "1670487227",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "(+!'' == !''), (+!'' + !'')",
+				"closed": false,
+				"total_voters": 145,
+				"answers": [
+					{
+						"text": "true NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true 2",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false '2'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false NaN",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 80,
+			"type": "message",
+			"date": "2022-12-09T13:11:32",
+			"date_unixtime": "1670577092",
+			"edited": "2022-12-09T13:12:36",
+			"edited_unixtime": "1670577156",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "1/0, 1//0",
+				"closed": false,
+				"total_voters": 217,
+				"answers": [
+					{
+						"text": "Infinity Infinity",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Infinity Error",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Infinity 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Infinity 0",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 81,
+			"type": "message",
+			"date": "2022-12-12T13:42:18",
+			"date_unixtime": "1670838138",
+			"edited": "2022-12-12T13:43:37",
+			"edited_unixtime": "1670838217",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "r = new RegExp('A', 'gi'); r.test('A'); r.test('A');",
+				"closed": false,
+				"total_voters": 126,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 82,
+			"type": "message",
+			"date": "2022-12-13T15:13:10",
+			"date_unixtime": "1670929990",
+			"edited": "2022-12-13T15:13:43",
+			"edited_unixtime": "1670930023",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "\"JavaScript\" > \"Java\", \"1\" > \"A\"",
+				"closed": false,
+				"total_voters": 205,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 83,
+			"type": "message",
+			"date": "2022-12-14T15:21:55",
+			"date_unixtime": "1671016915",
+			"edited": "2022-12-14T15:22:21",
+			"edited_unixtime": "1671016941",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "++[0][0], ++[[]][+[]]",
+				"closed": false,
+				"total_voters": 165,
+				"answers": [
+					{
+						"text": "0 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 84,
+			"type": "message",
+			"date": "2022-12-15T15:47:36",
+			"date_unixtime": "1671104856",
+			"edited": "2022-12-15T15:55:18",
+			"edited_unixtime": "1671105318",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "{} == {}, !{} == !{}",
+				"closed": false,
+				"total_voters": 197,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 85,
+			"type": "message",
+			"date": "2022-12-16T15:10:11",
+			"date_unixtime": "1671189011",
+			"edited": "2022-12-16T15:16:23",
+			"edited_unixtime": "1671189383",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "\"\".split(\"\").length, \"\".split(\" \").length",
+				"closed": false,
+				"total_voters": 181,
+				"answers": [
+					{
+						"text": "0 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 86,
+			"type": "message",
+			"date": "2022-12-19T14:22:43",
+			"date_unixtime": "1671445363",
+			"edited": "2022-12-19T14:23:23",
+			"edited_unixtime": "1671445403",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "f() {if(!f.a) f.a=1; return f.a++;}; f()+f()*f()",
+				"closed": false,
+				"total_voters": 168,
+				"answers": [
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "2",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "14",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "7",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 87,
+			"type": "message",
+			"date": "2022-12-20T11:32:49",
+			"date_unixtime": "1671521569",
+			"edited": "2022-12-20T11:34:36",
+			"edited_unixtime": "1671521676",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "! + 0, ! + 1",
+				"closed": false,
+				"total_voters": 202,
+				"answers": [
+					{
+						"text": "NaN NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'0' '1'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 88,
+			"type": "message",
+			"date": "2022-12-21T17:25:37",
+			"date_unixtime": "1671629137",
+			"edited": "2022-12-21T17:25:43",
+			"edited_unixtime": "1671629143",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "null + 0",
+				"closed": false,
+				"total_voters": 246,
+				"answers": [
+					{
+						"text": "0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "\"null0\"",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "TypeError",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 89,
+			"type": "message",
+			"date": "2022-12-22T15:26:37",
+			"date_unixtime": "1671708397",
+			"edited": "2022-12-22T15:26:44",
+			"edited_unixtime": "1671708404",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "[] + []",
+				"closed": false,
+				"total_voters": 261,
+				"answers": [
+					{
+						"text": "[]",
+						"voters": 47,
+						"chosen": false
+					},
+					{
+						"text": "[,]",
+						"voters": 50,
+						"chosen": false
+					},
+					{
+						"text": "''",
+						"voters": 90,
+						"chosen": false
+					},
+					{
+						"text": "NaN",
+						"voters": 74,
+						"chosen": true
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 90,
+			"type": "message",
+			"date": "2022-12-23T16:34:46",
+			"date_unixtime": "1671798886",
+			"edited": "2022-12-23T16:34:53",
+			"edited_unixtime": "1671798893",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'' && -0",
+				"closed": false,
+				"total_voters": 260,
+				"answers": [
+					{
+						"text": "true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "''",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "-0",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 91,
+			"type": "message",
+			"date": "2022-12-26T11:32:05",
+			"date_unixtime": "1672039925",
+			"edited": "2022-12-26T11:32:13",
+			"edited_unixtime": "1672039933",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "parseInt(0.0000005)",
+				"closed": false,
+				"total_voters": 317,
+				"answers": [
+					{
+						"text": "0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "5",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 92,
+			"type": "message",
+			"date": "2022-12-27T14:17:53",
+			"date_unixtime": "1672136273",
+			"edited": "2022-12-27T14:18:03",
+			"edited_unixtime": "1672136283",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "'' - 1",
+				"closed": false,
+				"total_voters": 265,
+				"answers": [
+					{
+						"text": "'1'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "'-1'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "-1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "NaN",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 93,
+			"type": "message",
+			"date": "2022-12-28T15:22:42",
+			"date_unixtime": "1672226562",
+			"edited": "2022-12-28T15:24:26",
+			"edited_unixtime": "1672226666",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "+0 === -0, Object.is(+0, -0)",
+				"closed": false,
+				"total_voters": 235,
+				"answers": [
+					{
+						"text": "true true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "false false",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 94,
+			"type": "message",
+			"date": "2022-12-29T15:14:45",
+			"date_unixtime": "1672312485",
+			"edited": "2022-12-29T15:15:24",
+			"edited_unixtime": "1672312524",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "setTimeout(() => console.log('called'), Infinity); Время вызова?",
+				"closed": false,
+				"total_voters": 286,
+				"answers": [
+					{
+						"text": "0ms 'called'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "4ms 'called'",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Не будет вызова",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Вызов будет через бесконечное кол-во времени",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 95,
+			"type": "message",
+			"date": "2022-12-30T14:16:52",
+			"date_unixtime": "1672395412",
+			"edited": "2022-12-30T14:17:00",
+			"edited_unixtime": "1672395420",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "parseInt(null, 24), parseInt(NaN, 24)",
+				"closed": false,
+				"total_voters": 274,
+				"answers": [
+					{
+						"text": "null NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "23 13511",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 NaN",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "Infinity Infinity",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 96,
+			"type": "message",
+			"date": "2022-12-31T17:51:39",
+			"date_unixtime": "1672494699",
+			"edited": "2022-12-31T17:51:59",
+			"edited_unixtime": "1672494719",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"text": "Привет!)\n\nОт компании ПАО \"Всратый JavaScript\" поздравляю вас с наступающим новым годом.\n\nЖелаю поменьше всратостей в коде.\nЧтобы ваш код не только решал крутые архитектурные моменты но и выставлялся в третьяковской галереи.\n\nЧтобы npm хранилище само стучалось в дверь и просило разрешение на публикацию вашего кода как часть пакета.\n\nЧтобы цивизилации будущего, которые путешествуют сквозь пространство и время и найдя этот код на отпечатке жесткого диска сказали бы: \"Ого, а уже так писали в 2022 году?\"\n\nС новым 20 + '23' годом!",
+			"text_entities": [
+				{
+					"type": "plain",
+					"text": "Привет!)\n\nОт компании ПАО \"Всратый JavaScript\" поздравляю вас с наступающим новым годом.\n\nЖелаю поменьше всратостей в коде.\nЧтобы ваш код не только решал крутые архитектурные моменты но и выставлялся в третьяковской галереи.\n\nЧтобы npm хранилище само стучалось в дверь и просило разрешение на публикацию вашего кода как часть пакета.\n\nЧтобы цивизилации будущего, которые путешествуют сквозь пространство и время и найдя этот код на отпечатке жесткого диска сказали бы: \"Ого, а уже так писали в 2022 году?\"\n\nС новым 20 + '23' годом!"
+				}
+			]
+		},
+		{
+			"id": 97,
+			"type": "message",
+			"date": "2023-01-09T10:44:29",
+			"date_unixtime": "1673246669",
+			"edited": "2023-01-09T10:44:47",
+			"edited_unixtime": "1673246687",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "(3.14 + 1e20) - 1e20, 3.14 + (1e20 - 1e20)",
+				"closed": false,
+				"total_voters": 259,
+				"answers": [
+					{
+						"text": "(3.14) (3.14)",
+						"voters": 80,
+						"chosen": false
+					},
+					{
+						"text": "(0) (3.14)",
+						"voters": 69,
+						"chosen": false
+					},
+					{
+						"text": "NaN NaN",
+						"voters": 47,
+						"chosen": true
+					},
+					{
+						"text": "Infinity Infinity",
+						"voters": 63,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 98,
+			"type": "message",
+			"date": "2023-03-31T16:27:17",
+			"date_unixtime": "1680265637",
+			"edited": "2023-03-31T16:27:35",
+			"edited_unixtime": "1680265655",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "b = []; (b?.length) (b?length:false)",
+				"closed": false,
+				"total_voters": 244,
+				"answers": [
+					{
+						"text": "0 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "0 1",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 0",
+						"voters": 0,
+						"chosen": false
+					},
+					{
+						"text": "1 1",
+						"voters": 0,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 99,
+			"type": "message",
+			"date": "2023-05-10T15:46:25",
+			"date_unixtime": "1683719185",
+			"edited": "2023-05-10T15:47:15",
+			"edited_unixtime": "1683719235",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "0 == ['0']['0'], 0 == ['0']['0']['0']",
+				"closed": false,
+				"total_voters": 283,
+				"answers": [
+					{
+						"text": "false false",
+						"voters": 98,
+						"chosen": false
+					},
+					{
+						"text": "true false",
+						"voters": 67,
+						"chosen": false
+					},
+					{
+						"text": "false true",
+						"voters": 29,
+						"chosen": true
+					},
+					{
+						"text": "true true",
+						"voters": 89,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		},
+		{
+			"id": 100,
+			"type": "message",
+			"date": "2023-05-11T14:29:33",
+			"date_unixtime": "1683800973",
+			"edited": "2023-05-11T14:29:56",
+			"edited_unixtime": "1683800996",
+			"from": "Всратый JavaScript",
+			"from_id": "channel1676462773",
+			"poll": {
+				"question": "(0.1).toFixed(20)",
+				"closed": false,
+				"total_voters": 288,
+				"answers": [
+					{
+						"text": "'0'",
+						"voters": 26,
+						"chosen": false
+					},
+					{
+						"text": "'0.10000000000000000555'",
+						"voters": 137,
+						"chosen": false
+					},
+					{
+						"text": "'0.10000000000000000000'",
+						"voters": 84,
+						"chosen": true
+					},
+					{
+						"text": "NaN",
+						"voters": 41,
+						"chosen": false
+					}
+				]
+			},
+			"text": "",
+			"text_entities": []
+		}
+	]
+}
